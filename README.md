@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I am Benhur</h1>
+<h1 align="center">Hola, I am Benhur 👋</h1>
 <h3 align="center">A hardworking newbie taking a deep dive into web3 and open source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhneb2004&label=Profile%20views&color=0e75b6&style=flat" alt="ruhneb2004" /> </p>
